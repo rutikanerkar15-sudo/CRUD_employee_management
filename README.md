@@ -11,7 +11,7 @@ A full-stack CRUD (Create, Read, Update, Delete) Employee Management System buil
 * **REST API Testing:** Includes an integrated HTTP request collection (`api_tests.http`) for testing endpoints directly in VS Code[cite: 1, 5].
 
 ---
-Live link :
+Live link : https://rutikanerkar15-sudo.github.io/CRUD_employee_management/
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML5, CSS3, JavaScript ES6+ (Fetch API)[cite: 1, 2]
